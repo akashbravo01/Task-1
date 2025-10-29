@@ -25,13 +25,13 @@ Users can filter earthquakes by magnitude and click markers to view detailed inf
 
 
 🛠️ Tech Stack
-Category	           Technology
+Category	      -     Technology
 
-Frontend Framework	 React (Vite)
-Map Integration	     Leaflet & React-Leaflet
-Data Source	         USGS Earthquake GeoJSON Feed
-Styling	             CSS3 (Custom + Responsive)
-Deployment	         CodeSandbox
+Frontend Framework-	 React (Vite)
+Map Integration	  -   Leaflet & React-Leaflet
+Data Source	      -   USGS Earthquake GeoJSON Feed
+Styling	          -   CSS3 (Custom + Responsive)
+Deployment	      -   CodeSandbox
 
 🖥️ Installation & Setup
 
