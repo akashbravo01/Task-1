@@ -65,3 +65,4 @@ Data is fetched in real-time from the USGS (United States Geological Survey) Ear
 
 👨‍💻 Akash L
 Full Stack Developer | React • Java • Spring Boot
+📧 akashbravo01@gmail.com
